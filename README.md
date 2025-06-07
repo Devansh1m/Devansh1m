@@ -24,7 +24,6 @@ I'm Devansh, a passionate MuleSoft and Salesforce Developer with hands-on experi
 #### 💬 Let’s Connect
 
 - 📫 Email: ddevansh2m@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/devansh1m/) (if you have one, otherwise remove this line)
 - 📝 Open to discussions about integrations, automation, and innovative projects.
 
 #### ⚡ Fun Fact
